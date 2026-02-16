@@ -1,0 +1,62 @@
+
+jumin_9.png
+size: 3003, 866
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+jumin_9-body
+  rotate: true
+  xy: 2, 22
+  size: 842, 1827
+  orig: 842, 1827
+  offset: 0, 0
+  index: -1
+jumin_9-eve-b
+  rotate: false
+  xy: 1831, 6
+  size: 287, 121
+  orig: 287, 121
+  offset: 0, 0
+  index: -1
+jumin_9-eve-by
+  rotate: true
+  xy: 2478, 97
+  size: 341, 209
+  orig: 341, 209
+  offset: 0, 0
+  index: -1
+jumin_9-eve-tk2
+  rotate: false
+  xy: 2120, 42
+  size: 217, 85
+  orig: 217, 85
+  offset: 0, 0
+  index: -1
+jumin_9-h1
+  rotate: true
+  xy: 2689, 178
+  size: 260, 312
+  orig: 260, 312
+  offset: 0, 0
+  index: -1
+jumin_9-h2
+  rotate: true
+  xy: 2689, 2
+  size: 174, 294
+  orig: 174, 294
+  offset: 0, 0
+  index: -1
+jumin_9-h3
+  rotate: false
+  xy: 2478, 440
+  size: 515, 424
+  orig: 515, 424
+  offset: 0, 0
+  index: -1
+jumin_9-t
+  rotate: true
+  xy: 1831, 129
+  size: 735, 645
+  orig: 735, 645
+  offset: 0, 0
+  index: -1

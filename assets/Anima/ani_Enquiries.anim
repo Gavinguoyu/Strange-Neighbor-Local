@@ -1,0 +1,33 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ani_Enquiries",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.6666666666666665,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 2,
+          "value": [
+            -885.0529999999999,
+            464.629,
+            0
+          ]
+        },
+        {
+          "frame": 2.6666666666666665,
+          "value": [
+            -431.505,
+            464.629,
+            0
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d7770933-7fda-487b-8d0a-44851f8c99c1",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 318,
+  "height": 240,
+  "platformSettings": {},
+  "subMetas": {
+    "zhujiemian-kaimen-anxia.png": {
+      "ver": "1.0.6",
+      "uuid": "a85d170b-3c99-4170-9e04-e2f32e489e87",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d7770933-7fda-487b-8d0a-44851f8c99c1",
+      "trimType": "none",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 318,
+      "height": 240,
+      "rawWidth": 318,
+      "rawHeight": 240,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

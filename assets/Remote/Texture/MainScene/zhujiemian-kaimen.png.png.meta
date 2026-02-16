@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "4aa9d9c6-8945-420e-9abf-5b148ded7e95",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 318,
+  "height": 240,
+  "platformSettings": {},
+  "subMetas": {
+    "zhujiemian-kaimen.png": {
+      "ver": "1.0.6",
+      "uuid": "6533cabb-7290-4709-8e21-fda9b9d9fa94",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "4aa9d9c6-8945-420e-9abf-5b148ded7e95",
+      "trimType": "none",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 318,
+      "height": 240,
+      "rawWidth": 318,
+      "rawHeight": 240,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

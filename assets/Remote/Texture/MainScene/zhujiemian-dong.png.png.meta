@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "10a3763f-716c-4300-90b9-a53dc651cab5",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 203,
+  "height": 143,
+  "platformSettings": {},
+  "subMetas": {
+    "zhujiemian-dong.png": {
+      "ver": "1.0.6",
+      "uuid": "b651ba12-8faa-4ccb-bc9f-1ca527f06c88",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "10a3763f-716c-4300-90b9-a53dc651cab5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 4.5,
+      "offsetY": -4,
+      "trimX": 29,
+      "trimY": 23,
+      "width": 154,
+      "height": 105,
+      "rawWidth": 203,
+      "rawHeight": 143,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "aa82d87d-c6c3-4854-abda-5828cc9e04dd",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 347,
+  "height": 263,
+  "platformSettings": {},
+  "subMetas": {
+    "zhujiemian-baojing-anxia.png": {
+      "ver": "1.0.6",
+      "uuid": "20ae70e8-051c-4d3f-b3de-c3ed58ff092d",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "aa82d87d-c6c3-4854-abda-5828cc9e04dd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 345,
+      "height": 261,
+      "rawWidth": 347,
+      "rawHeight": 263,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

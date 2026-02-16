@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "fe5ea73c-4f4c-437e-970d-0a537ac54dc1",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 108,
+  "height": 136,
+  "platformSettings": {},
+  "subMetas": {
+    "zhujiemian-luocheng_3.png": {
+      "ver": "1.0.6",
+      "uuid": "79ffeca8-02cc-44d3-bd00-903456bed882",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "fe5ea73c-4f4c-437e-970d-0a537ac54dc1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 108,
+      "height": 136,
+      "rawWidth": 108,
+      "rawHeight": 136,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

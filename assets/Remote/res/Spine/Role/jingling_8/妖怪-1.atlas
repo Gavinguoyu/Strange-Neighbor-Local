@@ -1,0 +1,34 @@
+
+妖怪-1.png
+size: 3971, 1144
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+jingling_8-body
+  rotate: true
+  xy: 2, 57
+  size: 1085, 3017
+  orig: 1085, 3017
+  offset: 0, 0
+  index: -1
+jingling_8-hair1
+  rotate: true
+  xy: 3021, 433
+  size: 242, 865
+  orig: 242, 865
+  offset: 0, 0
+  index: -1
+jingling_8-hair2
+  rotate: false
+  xy: 3021, 2
+  size: 474, 429
+  orig: 474, 429
+  offset: 0, 0
+  index: -1
+jingling_8hair-3
+  rotate: true
+  xy: 3021, 677
+  size: 465, 948
+  orig: 465, 948
+  offset: 0, 0
+  index: -1

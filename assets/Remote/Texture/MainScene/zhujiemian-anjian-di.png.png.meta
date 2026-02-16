@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "8624fbdd-6944-490e-b269-eae1d57c3a6c",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 225,
+  "height": 151,
+  "platformSettings": {},
+  "subMetas": {
+    "zhujiemian-anjian-di.png": {
+      "ver": "1.0.6",
+      "uuid": "a6ddc3e0-bea2-47f4-8bdb-3560a84381b6",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "8624fbdd-6944-490e-b269-eae1d57c3a6c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 225,
+      "height": 151,
+      "rawWidth": 225,
+      "rawHeight": 151,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

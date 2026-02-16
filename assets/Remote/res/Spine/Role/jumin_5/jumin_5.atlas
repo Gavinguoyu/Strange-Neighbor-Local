@@ -1,0 +1,41 @@
+
+jumin_5.png
+size: 2828, 816
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+jumin_5-body
+  rotate: true
+  xy: 2, 42
+  size: 772, 1420
+  orig: 772, 1420
+  offset: 0, 0
+  index: -1
+jumin_5-eve
+  rotate: false
+  xy: 2, 5
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+jumin_5-eve-yj
+  rotate: false
+  xy: 2408, 210
+  size: 180, 94
+  orig: 180, 94
+  offset: 0, 0
+  index: -1
+jumin_5-h
+  rotate: true
+  xy: 2408, 306
+  size: 508, 418
+  orig: 508, 418
+  offset: 0, 0
+  index: -1
+jumin_5-t
+  rotate: false
+  xy: 1424, 2
+  size: 982, 812
+  orig: 982, 812
+  offset: 0, 0
+  index: -1

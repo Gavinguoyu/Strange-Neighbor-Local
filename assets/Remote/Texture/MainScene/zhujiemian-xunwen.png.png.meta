@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "b0b0f4d6-45c4-4989-a0c1-95cd3528a968",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 281,
+  "height": 307,
+  "platformSettings": {},
+  "subMetas": {
+    "zhujiemian-xunwen.png": {
+      "ver": "1.0.6",
+      "uuid": "9e66d5d9-9df5-443e-a777-bc1b730b7893",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "b0b0f4d6-45c4-4989-a0c1-95cd3528a968",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1.5,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 0,
+      "width": 278,
+      "height": 307,
+      "rawWidth": 281,
+      "rawHeight": 307,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

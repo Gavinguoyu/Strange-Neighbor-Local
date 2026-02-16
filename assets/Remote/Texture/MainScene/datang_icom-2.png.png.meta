@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "944f249d-de66-4d5d-8b8b-3e6ce15df007",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 247,
+  "height": 224,
+  "platformSettings": {},
+  "subMetas": {
+    "datang_icom-2.png": {
+      "ver": "1.0.6",
+      "uuid": "03d0cab6-9b42-4730-a977-8f7e617ccae0",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "944f249d-de66-4d5d-8b8b-3e6ce15df007",
+      "trimType": "none",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 247,
+      "height": 224,
+      "rawWidth": 247,
+      "rawHeight": 224,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

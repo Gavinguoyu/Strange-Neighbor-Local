@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "8c2acbc7-dbba-45ff-b1ed-6a00b8b7b767",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1200,
+  "height": 2601,
+  "platformSettings": {},
+  "subMetas": {
+    "zhujiemian-bg-1.png": {
+      "ver": "1.0.6",
+      "uuid": "f757ce1d-a41e-4fd8-81de-998809fe3ab7",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "8c2acbc7-dbba-45ff-b1ed-6a00b8b7b767",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -320,
+      "offsetY": 581.5,
+      "trimX": 0,
+      "trimY": 155,
+      "width": 560,
+      "height": 1128,
+      "rawWidth": 1200,
+      "rawHeight": 2601,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

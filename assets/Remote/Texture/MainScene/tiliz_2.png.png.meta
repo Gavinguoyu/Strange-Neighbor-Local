@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "039a130a-ea0f-4f6d-8e4b-c4e099c0cb76",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 589,
+  "height": 133,
+  "platformSettings": {},
+  "subMetas": {
+    "tiliz_2.png": {
+      "ver": "1.0.6",
+      "uuid": "7eb10c56-733f-4d18-b182-d9dc36a14639",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "039a130a-ea0f-4f6d-8e4b-c4e099c0cb76",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 589,
+      "height": 133,
+      "rawWidth": 589,
+      "rawHeight": 133,
+      "borderTop": 46,
+      "borderBottom": 38,
+      "borderLeft": 46,
+      "borderRight": 78,
+      "subMetas": {}
+    }
+  }
+}

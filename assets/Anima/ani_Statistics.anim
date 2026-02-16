@@ -1,0 +1,135 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ani_Win",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "jiesuan-1": {
+        "comps": {},
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "Total Number": {
+        "comps": {},
+        "props": {
+          "position": [
+            {
+              "frame": 0.16666666666666666,
+              "value": [
+                805.867,
+                98.734,
+                0
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                -7.518,
+                98.734,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "TrueMan Pass Num": {
+        "comps": {},
+        "props": {
+          "position": [
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                609.11,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": [
+                -204.275,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "FalseMan Pass Num": {
+        "comps": {},
+        "props": {
+          "position": [
+            {
+              "frame": 0.5,
+              "value": [
+                640.394,
+                -74.051,
+                0
+              ]
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": [
+                -150.645,
+                -74.051,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "FalseMan Rejected Num": {
+        "comps": {},
+        "props": {
+          "position": [
+            {
+              "frame": 0.6666666666666666,
+              "value": [
+                604.641,
+                -148.102,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                -186.399,
+                -148.102,
+                0
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "comps": {},
+    "props": {
+      "opacity": [
+        {
+          "frame": 1.8333333333333333,
+          "value": 255
+        },
+        {
+          "frame": 2,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

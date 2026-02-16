@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "4ed4d771-13d1-476e-82b0-9c100f38ae76",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 189,
+  "height": 257,
+  "platformSettings": {},
+  "subMetas": {
+    "jinrifangke-3.png": {
+      "ver": "1.0.6",
+      "uuid": "a2ea658c-f110-4f53-9c49-0e13f8aa48f5",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "4ed4d771-13d1-476e-82b0-9c100f38ae76",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 3,
+      "trimY": 4,
+      "width": 183,
+      "height": 248,
+      "rawWidth": 189,
+      "rawHeight": 257,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

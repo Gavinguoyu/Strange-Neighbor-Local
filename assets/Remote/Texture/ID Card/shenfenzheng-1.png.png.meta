@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "f7fc9680-6f1a-4958-9af6-a9df997369e9",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1067,
+  "height": 603,
+  "platformSettings": {},
+  "subMetas": {
+    "shenfenzheng-1.png": {
+      "ver": "1.0.6",
+      "uuid": "ada6ba91-c1fb-4067-bb3b-7255b7fca667",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "f7fc9680-6f1a-4958-9af6-a9df997369e9",
+      "trimType": "none",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1067,
+      "height": 603,
+      "rawWidth": 1067,
+      "rawHeight": 603,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

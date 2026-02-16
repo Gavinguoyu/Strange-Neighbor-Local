@@ -1,0 +1,11 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "Neighbor",
+  "id": "22a83c04-0f66-4348-a687-8b00b3483834",
+  "version": "2.4.13",
+  "isNew": false,
+  "dependencies": {
+    "@douyin-microapp/typings": "latest"
+  }
+}

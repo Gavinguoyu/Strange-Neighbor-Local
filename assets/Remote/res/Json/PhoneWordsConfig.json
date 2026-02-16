@@ -1,0 +1,16 @@
+[
+{"Type":"真人-室友在家","Content":"你好，我是myName;hisName正准备回家"},
+{"Type":"真人-室友在家","Content":"你好，我是myName;hisName正准备回家"},
+{"Type":"真人-室友在家","Content":"你好，我是myName;hisName正准备回家"},
+{"Type":"伪人-真人在家","Content":"你好，我是myName;嗯嗯嗯嗯～～～～～;我在家里，今天没有外出。"},
+{"Type":"伪人-真人在家","Content":"什么事情？;噢～～～原来这样，;我一天都在家哦。。"},
+{"Type":"伪人-真人在家","Content":"。。。。。。。;我在家。。什么事情？"},
+{"Type":"伪人-室友在家-后面无真人","Content":"你好，我是myName;你找hisName啊，他今天不回家"},
+{"Type":"伪人-室友在家-后面无真人","Content":"你找hisName吗，他今天不回家"},
+{"Type":"伪人-室友在家-后面无真人","Content":"只有我自己在家"},
+{"Type":"伪人-室友在家-后面有真人","Content":"你好，我是myName;你找hisName啊，他晚一些回家"},
+{"Type":"伪人-室友在家-后面有真人","Content":"你找hisName吗，他晚一些回家"},
+{"Type":"伪人-室友在家-后面有真人","Content":"hisName在公司"},
+{"Type":"家里无人","Content":"嘟～～～嘟～～～～好像没人在家？"},
+{"Type":"家里无人","Content":"嘟～～～嘟～～～～嘟～～～嘟～～～～"}
+]

@@ -1,0 +1,44 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ani_Record",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 2.1666666666666665,
+          "value": [
+            825.134,
+            723.956,
+            0
+          ]
+        },
+        {
+          "frame": 2.5,
+          "value": [
+            408.578,
+            723.956,
+            0
+          ]
+        }
+      ],
+      "scale": [
+        {
+          "frame": 2.1666666666666665,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 1,
+            "y": 1,
+            "z": 1
+          }
+        }
+      ]
+    }
+  },
+  "events": []
+}

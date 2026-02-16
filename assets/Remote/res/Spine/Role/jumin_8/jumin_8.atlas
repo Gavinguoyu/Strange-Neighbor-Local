@@ -1,0 +1,41 @@
+
+jumin_8.png
+size: 2503, 906
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+jumin_8-body
+  rotate: true
+  xy: 2, 2
+  size: 902, 1397
+  orig: 902, 1397
+  offset: 0, 0
+  index: -1
+jumin_8-eve-b
+  rotate: false
+  xy: 1401, 39
+  size: 240, 62
+  orig: 240, 62
+  offset: 0, 0
+  index: -1
+jumin_8-h
+  rotate: true
+  xy: 1401, 594
+  size: 310, 1100
+  orig: 310, 1100
+  offset: 0, 0
+  index: -1
+jumin_8-maozi
+  rotate: false
+  xy: 1965, 351
+  size: 520, 241
+  orig: 520, 241
+  offset: 0, 0
+  index: -1
+jumin_8-t
+  rotate: false
+  xy: 1401, 103
+  size: 562, 489
+  orig: 562, 489
+  offset: 0, 0
+  index: -1

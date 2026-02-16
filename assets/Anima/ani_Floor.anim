@@ -1,0 +1,81 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ani_Floor",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3.3333333333333335,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "First": {
+        "props": {
+          "position": [
+            {
+              "frame": 2.5,
+              "value": [
+                115.418,
+                317.105,
+                0
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                3,
+                317.105,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "Second": {
+        "props": {
+          "position": [
+            {
+              "frame": 2.6666666666666665,
+              "value": [
+                112.111,
+                150.625,
+                0
+              ]
+            },
+            {
+              "frame": 3.1666666666666665,
+              "value": [
+                3,
+                150.625,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "Third": {
+        "props": {
+          "position": [
+            {
+              "frame": 2.8333333333333335,
+              "value": [
+                118.724,
+                -11.998,
+                0
+              ]
+            },
+            {
+              "frame": 3.3333333333333335,
+              "value": [
+                3,
+                -11.998,
+                0
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

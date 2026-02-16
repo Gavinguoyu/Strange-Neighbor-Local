@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "a938c0a7-cbfe-4904-83b0-2585e6690e67",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 549,
+  "height": 224,
+  "platformSettings": {},
+  "subMetas": {
+    "ditu-2.png": {
+      "ver": "1.0.6",
+      "uuid": "120850c2-d651-4cf1-9b67-9f0d8f9486e3",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "a938c0a7-cbfe-4904-83b0-2585e6690e67",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 549,
+      "height": 224,
+      "rawWidth": 549,
+      "rawHeight": 224,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

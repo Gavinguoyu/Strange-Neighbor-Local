@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "f2dde901-ea9e-484d-af3e-1492cae6f24a",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 217,
+  "height": 113,
+  "platformSettings": {},
+  "subMetas": {
+    "gushi-4.png": {
+      "ver": "1.0.6",
+      "uuid": "2427e08d-e339-4c72-8513-5f2f6dc07ac6",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "f2dde901-ea9e-484d-af3e-1492cae6f24a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 217,
+      "height": 113,
+      "rawWidth": 217,
+      "rawHeight": 113,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

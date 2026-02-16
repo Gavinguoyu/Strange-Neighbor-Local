@@ -1,0 +1,80 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ani_CheckInForm",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.75,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            29,
+            1042.04,
+            0
+          ]
+        },
+        {
+          "frame": 0.5,
+          "value": [
+            29,
+            1042.04,
+            0
+          ]
+        },
+        {
+          "frame": 0.75,
+          "value": [
+            2.642,
+            715.854,
+            0
+          ]
+        }
+      ],
+      "scale": [
+        {
+          "frame": 0,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 0,
+            "y": 0,
+            "z": 0.071
+          }
+        },
+        {
+          "frame": 0.5,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 0,
+            "y": 0,
+            "z": 0.071
+          }
+        },
+        {
+          "frame": 0.75,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 0.5,
+            "y": 0.5,
+            "z": 0.5
+          }
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.5,
+          "value": 255
+        }
+      ]
+    }
+  },
+  "events": []
+}

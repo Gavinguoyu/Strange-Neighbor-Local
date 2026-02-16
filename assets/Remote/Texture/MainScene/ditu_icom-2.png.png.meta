@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "922d83df-dd24-4625-9428-c6296d4adad5",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 212,
+  "height": 196,
+  "platformSettings": {},
+  "subMetas": {
+    "ditu_icom-2.png": {
+      "ver": "1.0.6",
+      "uuid": "1c2acac2-9815-4508-9a20-76463e43f1f7",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "922d83df-dd24-4625-9428-c6296d4adad5",
+      "trimType": "none",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 212,
+      "height": 196,
+      "rawWidth": 212,
+      "rawHeight": 196,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

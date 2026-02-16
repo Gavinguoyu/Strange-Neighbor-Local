@@ -1,0 +1,179 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ani_Rewaird",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "jiesuan-2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "Grade": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.5,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 5.107,
+                "y": 5.107,
+                "z": 5.107
+              }
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.811,
+                "y": 0.811,
+                "z": 0.811
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.5,
+              "value": 0
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "Score1": {
+        "props": {
+          "position": [
+            {
+              "frame": 1,
+              "value": [
+                -805.622,
+                245.975,
+                0
+              ]
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": [
+                -142.336,
+                245.975,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "Score2": {
+        "props": {
+          "position": [
+            {
+              "frame": 1.1666666666666667,
+              "value": [
+                -796.312,
+                83.253,
+                0
+              ]
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": [
+                -146.149,
+                83.253,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "jiesuan-6": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "jiesuan-9": {
+        "props": {
+          "position": [
+            {
+              "frame": 1.3333333333333333,
+              "value": [
+                788.714,
+                -332.997,
+                0
+              ]
+            },
+            {
+              "frame": 1.5,
+              "value": [
+                96.2,
+                -332.997,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "Coin Label": {
+        "props": {
+          "position": [
+            {
+              "frame": 1.3333333333333333,
+              "value": [
+                -679.356,
+                -335.42,
+                0
+              ]
+            },
+            {
+              "frame": 1.5,
+              "value": [
+                -1.979,
+                -335.42,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "jiesuan-8": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 255
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

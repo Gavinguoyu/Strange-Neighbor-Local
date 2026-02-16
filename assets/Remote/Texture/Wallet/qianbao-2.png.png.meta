@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "c778ed9e-4de6-454f-bc91-d25c13d129aa",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 822,
+  "height": 585,
+  "platformSettings": {},
+  "subMetas": {
+    "qianbao-2.png": {
+      "ver": "1.0.6",
+      "uuid": "11a5487c-fd41-4350-a955-655b5bddf67a",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "c778ed9e-4de6-454f-bc91-d25c13d129aa",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 40.5,
+      "offsetY": -23.5,
+      "trimX": 131,
+      "trimY": 87,
+      "width": 641,
+      "height": 458,
+      "rawWidth": 822,
+      "rawHeight": 585,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

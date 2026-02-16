@@ -1,0 +1,20 @@
+
+jingling_7.png
+size: 3148, 1164
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+jingling_7-body
+  rotate: true
+  xy: 2, 2
+  size: 1160, 2442
+  orig: 1160, 2442
+  offset: 0, 0
+  index: -1
+jingling_7-hair
+  rotate: false
+  xy: 2446, 191
+  size: 700, 971
+  orig: 700, 971
+  offset: 0, 0
+  index: -1

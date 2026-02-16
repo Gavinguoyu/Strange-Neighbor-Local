@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "c4c1d74c-7ffa-4956-a45e-e8263757b8eb",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 594,
+  "height": 210,
+  "platformSettings": {},
+  "subMetas": {
+    "shibai_4.png": {
+      "ver": "1.0.6",
+      "uuid": "2f06732b-78f9-4499-9f17-2e6257db60f8",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "c4c1d74c-7ffa-4956-a45e-e8263757b8eb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 594,
+      "height": 210,
+      "rawWidth": 594,
+      "rawHeight": 210,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

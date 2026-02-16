@@ -1,0 +1,51 @@
+{
+  "ver": "2.3.7",
+  "uuid": "f4a06a2b-478b-48ea-948c-ce5f75ba7d4a",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 208,
+  "height": 83,
+  "platformSettings": {
+    "minigame": {
+      "formats": [
+        {
+          "name": "astc_8x8",
+          "quality": "medium"
+        },
+        {
+          "name": "png",
+          "quality": 80
+        }
+      ]
+    }
+  },
+  "subMetas": {
+    "shebei-2.png": {
+      "ver": "1.0.6",
+      "uuid": "24967c27-2685-47e1-babf-a1bd4c8034fe",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "f4a06a2b-478b-48ea-948c-ce5f75ba7d4a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 208,
+      "height": 82,
+      "rawWidth": 208,
+      "rawHeight": 83,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

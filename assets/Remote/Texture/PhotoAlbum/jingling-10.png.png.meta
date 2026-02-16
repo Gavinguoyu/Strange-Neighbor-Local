@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "ee8fc8b9-48da-4f28-bb1b-3d815bcbb8a7",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 224,
+  "height": 116,
+  "platformSettings": {},
+  "subMetas": {
+    "jingling-10.png": {
+      "ver": "1.0.6",
+      "uuid": "87b08a9a-3e91-4300-a346-7ba3fea2c2a6",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "ee8fc8b9-48da-4f28-bb1b-3d815bcbb8a7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 224,
+      "height": 116,
+      "rawWidth": 224,
+      "rawHeight": 116,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

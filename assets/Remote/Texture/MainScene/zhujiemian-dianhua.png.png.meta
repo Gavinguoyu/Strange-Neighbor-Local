@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "f548a75f-dd46-4d82-8b27-8199431829cb",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 517,
+  "height": 462,
+  "platformSettings": {},
+  "subMetas": {
+    "zhujiemian-dianhua.png": {
+      "ver": "1.0.6",
+      "uuid": "d4312305-c326-4586-8e55-a062d6d81c40",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "f548a75f-dd46-4d82-8b27-8199431829cb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 517,
+      "height": 461,
+      "rawWidth": 517,
+      "rawHeight": 462,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "ver": "2.3.7",
+  "uuid": "c9c8775f-bb36-477a-a6d7-18572a18462e",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1018,
+  "height": 1419,
+  "platformSettings": {
+    "minigame": {
+      "formats": [
+        {
+          "name": "astc_8x8",
+          "quality": "medium"
+        },
+        {
+          "name": "png",
+          "quality": 80
+        }
+      ]
+    }
+  },
+  "subMetas": {
+    "ruzhudan-1.png": {
+      "ver": "1.0.6",
+      "uuid": "10c74109-a869-4a28-b1ed-0ad017374508",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "c9c8775f-bb36-477a-a6d7-18572a18462e",
+      "trimType": "none",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1018,
+      "height": 1419,
+      "rawWidth": 1018,
+      "rawHeight": 1419,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

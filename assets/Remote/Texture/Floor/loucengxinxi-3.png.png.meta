@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "387b9068-e143-4e68-a501-a22349cc9edf",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1200,
+  "height": 1069,
+  "platformSettings": {},
+  "subMetas": {
+    "loucengxinxi-3.png": {
+      "ver": "1.0.6",
+      "uuid": "b259e44e-a16b-470d-8fa6-8ed5c3fe97e8",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "387b9068-e143-4e68-a501-a22349cc9edf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": 6.5,
+      "trimX": 56,
+      "trimY": 39,
+      "width": 1085,
+      "height": 978,
+      "rawWidth": 1200,
+      "rawHeight": 1069,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,34 @@
+
+jumin_1.png
+size: 3478, 2181
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+jumin_1_body
+  rotate: true
+  xy: 2, 1040
+  size: 1139, 2279
+  orig: 1139, 2279
+  offset: 0, 0
+  index: -1
+jumin_1_by2
+  rotate: false
+  xy: 2, 693
+  size: 462, 345
+  orig: 465, 350
+  offset: 1, 3
+  index: -1
+jumin_1_kx
+  rotate: false
+  xy: 2283, 1098
+  size: 1193, 1081
+  orig: 1193, 1081
+  offset: 0, 0
+  index: -1
+jumin_1_sbi
+  rotate: false
+  xy: 2283, 2
+  size: 1162, 1094
+  orig: 1162, 1094
+  offset: 0, 0
+  index: -1

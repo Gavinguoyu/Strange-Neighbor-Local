@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "3cbc0825-f7cb-4669-8610-7c803f057d4d",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 564,
+  "height": 564,
+  "platformSettings": {},
+  "subMetas": {
+    "zhujiemian-wuya.png": {
+      "ver": "1.0.6",
+      "uuid": "ec21a8db-9662-4d2a-add6-6edeb6b4038c",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "3cbc0825-f7cb-4669-8610-7c803f057d4d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 19.5,
+      "offsetY": -20,
+      "trimX": 124,
+      "trimY": 56,
+      "width": 355,
+      "height": 492,
+      "rawWidth": 564,
+      "rawHeight": 564,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
